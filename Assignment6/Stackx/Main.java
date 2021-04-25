@@ -1,3 +1,10 @@
+/*
+Ankit Das
+Stack Interface
+
+Written in Java 11
+*/
+
 public class Main {
     public static void main(String[] args) {
         FixedStack FStack = new FixedStack(3);
