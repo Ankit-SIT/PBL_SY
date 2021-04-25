@@ -1,3 +1,10 @@
+/*
+Ankit Das
+Multiple Inheritance using Interfaces
+
+Written in Java 11
+*/
+
 interface Exam {
     void calculatePercentage(Double[] marks);
 }
